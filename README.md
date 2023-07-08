@@ -24,15 +24,15 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/2d9d1b3c-14af-4ae9-b98f-331c3dba474b" alt="Plot 1" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/61c9b85e-2a55-4fbf-963c-01dbed462a58" alt="Plot 2" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/b2329cfb-934a-406d-8f06-9e90443027aa" alt="Plot 3" width="267" height="267"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/2d9d1b3c-14af-4ae9-b98f-331c3dba474b" alt="Plot 1" width="267" height="200"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/61c9b85e-2a55-4fbf-963c-01dbed462a58" alt="Plot 2" width="267" height="200"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/b2329cfb-934a-406d-8f06-9e90443027aa" alt="Plot 3" width="267" height="200"/>
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/cf7cefaf-1724-4c69-8ec1-07c6367d4088" alt="Plot 1" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/37f34a29-04e4-4c8e-a124-3711c1803f43" alt="Plot 2" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/09ed7932-8a1e-43d7-948a-d1ab7667a4d9" alt="Plot 3" width="267" height="267"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/cf7cefaf-1724-4c69-8ec1-07c6367d4088" alt="Plot 1" width="267" height="200"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/37f34a29-04e4-4c8e-a124-3711c1803f43" alt="Plot 2" width="267" height="200"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/09ed7932-8a1e-43d7-948a-d1ab7667a4d9" alt="Plot 3" width="267" height="200"/>
 </div>
 
 <div>
