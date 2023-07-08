@@ -2,7 +2,7 @@
 
 I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports visualization analyst.
 
-- 🔭  I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
+- 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
 
 - 🌱 I’m currently learning R-Shiny, Python, and JavaScript to enhance my skills in developing interactive and visually appealing data visualizations and web applications.
 
