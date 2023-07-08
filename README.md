@@ -18,6 +18,12 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 ### Projects Gallery
 
 <div>
+    <img src="https://github.com/manassehoduor/EconomicsIndicatorsKE/assets/20558188/f4a766e9-938d-44c0-8c37-a70d2e25a7fd" alt="Plot 1" width="300"/>
+    <img src="https://github.com/manassehoduor/EconomicsIndicatorsKE/assets/20558188/113d87d5-2151-4de3-9124-f5846cbb7bfa" alt="Plot 2" width="300"/>
+    <img src="https://github.com/manassehoduor/EconomicsIndicatorsKE/assets/20558188/1721c0a1-d58f-4769-96d3-c6d124ab964e" alt="Plot 3" width="300"/>
+</div>
+
+<div>
     <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/2d9d1b3c-14af-4ae9-b98f-331c3dba474b" alt="Plot 1" width="300"/>
     <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/61c9b85e-2a55-4fbf-963c-01dbed462a58" alt="Plot 2" width="300"/>
     <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/b2329cfb-934a-406d-8f06-9e90443027aa" alt="Plot 3" width="300"/>
