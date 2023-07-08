@@ -62,6 +62,12 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 ### Sports Gallery
 
 <div>
+   <img src="https://user-images.githubusercontent.com/20558188/178668239-18e28694-3d0c-4ca2-a6ab-bab69780dda1.png" alt="Plot 1" width="267"/>
+    <img src="https://user-images.githubusercontent.com/20558188/178668569-38cc8171-d06d-4af4-829e-700e576681dc.png" alt="Plot 2" width="267"/>
+    <img src="https://user-images.githubusercontent.com/20558188/178668575-2fbc2a03-998d-4afb-b316-4ee28a01ae23.png" alt="Plot 3" width="267"/>
+</div>
+
+<div>
    <img src="https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5ca16dff-4772-4049-bb01-8c1ff375b465" alt="Plot 1" width="267"/>
     <img src="https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/7f86f62b-53c3-4804-8235-ee4c5a2fa959" alt="Plot 2" width="267"/>
     <img src="https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/d3f1a247-6ba5-4446-82cf-26f6fcffd1bb" alt="Plot 3" width="267"/>
