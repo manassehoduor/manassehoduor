@@ -18,8 +18,8 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 ### Projects Gallery
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/516f5cfc-dbf8-49fa-a49f-c03ce2805db6
-" alt=" Plot 1" />
+    <img src="https://github.com/manassehoduor/TidyTuesday/assets/20558188/516f5cfc-dbf8-49fa-a49f-c03ce2805db6" alt=" Plot 1" width="900" />
+
 </div>
 
 <div>
