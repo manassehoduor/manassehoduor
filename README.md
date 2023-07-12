@@ -87,8 +87,8 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 
 <div>
  <img src="https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31fa1ffd-de8c-458b-aa68-8cf82a5bafe9" alt="Plot 1" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/1527fbd0-7aa5-436d-a92e-6365282b6151" alt="Plot 2" width="267" height="267"/>
-    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/f6effa87-cdbb-4664-841e-26b5eb292e82" 
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/5fa75d73-a071-42ae-879d-9c1da371cfb4" alt="Plot 2" width="267" height="267"/>
+    <img src="https://github.com/manassehoduor/Super-Rugby-Pacific-Stats/assets/20558188/3cd7f133-e503-4c47-9f98-9b4eda386835" 
     alt="Plot 3" width="267" height="267"/>
 </div>
 
