@@ -67,6 +67,11 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 ### Sports Gallery
 
 <div>
+    <img src="https://github.com/manassehoduor/manassehoduor/assets/20558188/1246075b-b45a-41c4-aedb-ea0af4ef2139" alt=" Plot 1" width="404";/>
+    <img src="https://github.com/manassehoduor/manassehoduor/assets/20558188/28280f8a-2782-4423-8c3b-d6ac70c8a70a" alt=" Plot 2" width="404"/>
+</div>
+
+<div>
    <img src="https://user-images.githubusercontent.com/20558188/178668239-18e28694-3d0c-4ca2-a6ab-bab69780dda1.png" alt="Plot 1" width="267" height="267"/>
     <img src="https://user-images.githubusercontent.com/20558188/178668569-38cc8171-d06d-4af4-829e-700e576681dc.png" alt="Plot 2" width="267" height="267"/>
     <img src="https://user-images.githubusercontent.com/20558188/178668575-2fbc2a03-998d-4afb-b316-4ee28a01ae23.png" alt="Plot 3" width="267" height="267"/>
