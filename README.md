@@ -12,7 +12,7 @@ I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports v
 
 - 🖤 Pronouns: He/him (🙋🏿‍♂️)
 
-- ⚡ Fun fact: I've played rugby at a competitive level for quite a number of years and have a deep understanding of the game both as a player and an analyst.
+- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
 
 
 ### Projects Gallery
