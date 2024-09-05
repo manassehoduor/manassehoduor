@@ -1,6 +1,6 @@
 ### Hi there 👋🏿
 
-I'm Manasseh, a freelance data scientist consultant, rugby athlete, and sports visualization analyst.
+I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports visualization analyst.
 
 - 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
 
