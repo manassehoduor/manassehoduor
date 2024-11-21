@@ -18,6 +18,11 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 ### Projects Gallery
 
 <div>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Bob's%20Burgers%20Episodes.png" alt=" Plot 1" 
+        width="808"/>
+</div>
+
+<div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO_CC.png" alt=" Plot 1" 
         width="808"/>
 </div>
