@@ -19,7 +19,7 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 
 <div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png" alt=" Plot 1" 
-        width="404";/>
+        width="404" height="267";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_sankey.png" alt=" Plot 2" width="404"/>
 </div>
 
