@@ -18,8 +18,12 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 ### Projects Gallery
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Bob's%20Burgers%20Episodes.png" alt=" Plot 1" 
-        width="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png" alt=" Plot 1" width="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_sankey.png" alt=" Plot 2" width="404"/>
+</div>
+
+<div>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_47/Bob's%20Burgers%20Episodes.png" alt=" Plot 1" width="404";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_48/CBP.png" alt=" Plot 2" width="404"/>
 </div>
 
