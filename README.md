@@ -28,6 +28,8 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manassehoduor&theme=react-dark&area=true&layout=compact)
 
+![Snake Animation](https://github.com/manassehoduor/manassehoduor/blob/output/github-contribution-grid-snake.svg)
+
 ### Projects Gallery
 
 <div>
