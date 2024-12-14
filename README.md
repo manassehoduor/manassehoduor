@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
 
 ### 🚀 Skills & Tools:
-- ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white)
 
