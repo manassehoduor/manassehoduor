@@ -3,11 +3,6 @@
 ### Hi there 👋🏿
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&color=brightgreen&lines=I'm+Manasseh;I+Specialize+in+Data+Analytics;and+am+a+Rugby+Athlete!)
 
-### 🚀 Skills & Tools:
-- ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white)
-
 - 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
 
 - 🌱 I’m currently learning R-Shiny, Python, and JavaScript to enhance my skills in developing interactive and visually appealing data visualizations and web applications.
@@ -20,6 +15,10 @@
 
 - ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
 
+### 🚀 Skills & Tools:
+- ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manassehoduor&layout=compact&theme=radical)
 
