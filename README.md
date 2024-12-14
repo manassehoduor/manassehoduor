@@ -1,7 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=manassehoduor&color=brightgreen)
 
 ### Hi there 👋🏿
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=brightgreen&lines=I'm+Manasseh;I+Specialize+in+Data+Analytics;and+am+a+Rugby+Athlete!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&color=brightgreen&lines=I'm+Manasseh;I+Specialize+in+Data+Analytics;and+am+a+Rugby+Athlete!)
 
 - 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
 
