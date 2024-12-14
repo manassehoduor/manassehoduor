@@ -14,11 +14,13 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 
 - ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manassehoduor&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manassehoduor&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manassehoduor&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manassehoduor&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=manassehoduor&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manassehoduor&theme=react-dark)
 
 ### Projects Gallery
 
