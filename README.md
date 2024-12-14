@@ -1,9 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=manassehoduor&color=brightgreen)
 
 ### Hi there 👋🏿
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=brightgreen&lines=Welcome+to+my+profile!;I'm+a+full-stack+developer.)
-
-I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports visualization analyst.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=brightgreen&lines=Welcome+to+my+profile!;I'm+Manasseh,+a+Data Analytics consultant,+Rugby Athlete.)
 
 - 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
 
