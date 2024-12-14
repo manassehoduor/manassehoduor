@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning R-Shiny, Python, and JavaScript to enhance my skills in developing interactive and visually appealing data visualizations and web applications.
 
-- 🤝🏿 I’m looking to collaborate on exciting open-source data science projects or opportunities related to data science, rugby performance analysis, or any other interesting domains. If you're interested in hiring me or collaborating with me on a project, please [email me](manassehoduor6@gmail.com).
+- 🤝🏿 I’m looking to collaborate on exciting open-source data science projects or opportunities related to data science, rugby performance analysis, or other interesting domains. If you're interested in hiring me or collaborating with me on a project, please [email me](manassehoduor6@gmail.com).
 
 - 💬 Ask me about rugby performance analysis, data-driven insights in sports, or any questions related to data science and analytics. 
 
 - 🖤 Pronouns: He/him (🙋🏿‍♂️)
 
-- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
+- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst. [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x)]([https://x.com/your-profile](https://x.com/Manasseh_6))
+
 
 ### 🚀 Skills & Tools:
 ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
