@@ -13,6 +13,8 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 - 🖤 Pronouns: He/him (🙋🏿‍♂️)
 
 - ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
+![Visitor Count](https://komarev.com/ghpvc/?username=manassehoduor&color=brightgreen)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manassehoduor&layout=compact&theme=radical)
 
