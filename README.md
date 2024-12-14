@@ -13,7 +13,7 @@
 
 - 🖤 Pronouns: He/him (🙋🏿‍♂️)
 
-- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst. [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x)]([https://x.com/your-profile](https://x.com/Manasseh_6))
+- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst. Follow me on [![X](https://img.shields.io/badge/-X-F5EFFF?style=flat&logo=x)]([https://x.com/your-profile](https://x.com/Manasseh_6))
 
 
 ### 🚀 Skills & Tools:
