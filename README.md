@@ -20,7 +20,7 @@ I'm Manasseh, a freelance data analytics consultant, rugby athlete, and sports v
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manassehoduor&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manassehoduor&theme=react-dark&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manassehoduor&theme=react-dark&area=true&layout=compact)
 
 ### Projects Gallery
 
