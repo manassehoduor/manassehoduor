@@ -26,6 +26,11 @@
 ### Projects Gallery
 
 <div>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" 
+        width="808"/>
+</div>
+
+<div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rects.png" alt=" Plot 1" 
         height="404" width="404";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rings.png" alt=" Plot 2" width="404" height="404"/>
