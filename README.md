@@ -38,19 +38,17 @@
 
 <div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" width="404";/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_06" alt=" Plot 2" width="404"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_06/cdc_datasets.png" alt=" Plot 2" width="404"/>
     
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rects.png" alt=" Plot 1" 
-        height="404" width="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rects.png" alt=" Plot 1" height="404" width="404";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_53/Chef_rings.png" alt=" Plot 2" width="404" height="404"/>
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png" alt=" Plot 1" 
-        width="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_treemap.png" alt=" Plot 1" width="404";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_50/perfume_sankey.png" alt=" Plot 2" width="404" height="404"/>
 </div>
 
@@ -60,8 +58,7 @@
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO_CC.png" alt=" Plot 1" 
-        width="808"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_46/ISO_CC.png" alt=" Plot 1" width="808"/>
 </div>
 
 <div>
@@ -71,8 +68,7 @@
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_37/College%20Admissions.png" alt=" Plot 1" 
-        width="808"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2024/wk_37/College%20Admissions.png" alt=" Plot 1" width="808"/>
 </div>
 
 <div>
