@@ -25,6 +25,13 @@
 
 ### Projects Gallery
 <div>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03/Himalaya.png" alt=" Plot 1" width="267";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_04/water_insecurity.png" alt=" Plot 2" width="267";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_05/The%20Simpsons.png" alt=" Plot 3" width="267";/>
+    
+</div>
+
+<div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_02/posit%20conf.png" alt=" Plot 1" 
         width="808"/>
 </div>
