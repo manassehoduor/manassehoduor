@@ -37,8 +37,8 @@
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" width="404" height="400";/>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_06/cdc_datasets.png" alt=" Plot 2" width="404" height="400"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" width="404" height="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_06/cdc_datasets.png" alt=" Plot 2" width="404" height="404"/>
     
 </div>
 
