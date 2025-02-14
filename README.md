@@ -37,8 +37,9 @@
 </div>
 
 <div>
-    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" 
-        width="808"/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_01/svns_2024.png" alt=" Plot 1" width="404";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/tree/main/2025/wk_06" alt=" Plot 2" width="404"/>
+    
 </div>
 
 <div>
