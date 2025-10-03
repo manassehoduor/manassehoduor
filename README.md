@@ -24,6 +24,14 @@
 
 
 ### Projects Gallery
+
+<div>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_08/Disparities_Reproductive_Med.png" alt=" Plot 1" width="267" height="300";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_26/US_Gas_Prices.png" alt=" Plot 2" width="267" height="300";/>
+    <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_25/measles_africa_map.png" alt=" Plot 3" width="267" height="300"/>
+    
+</div>
+
 <div>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_03/Himalaya.png" alt=" Plot 1" width="267" height="300";/>
     <img src="https://github.com/manassehoduor/TidyTuesday/blob/main/2025/wk_04/water_insecurity.png" alt=" Plot 2" width="267" height="300";/>
