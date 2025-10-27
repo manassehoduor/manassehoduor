@@ -3,17 +3,11 @@
 ### Hi there 👋🏿
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&&color=00BDAA&lines=I'm+Manasseh;I+Specialize+in+Data+Analytics;and+am+a+Rugby+Athlete!)
 
-- 👨🏿‍💻 I’m currently working on various data science projects, helping clients extract insights from their data and drive data-informed decision-making in their organizations.
-
-- 🌱 I’m currently learning R-Shiny, Python, and JavaScript to enhance my skills in developing interactive and visually appealing data visualizations and web applications.
+- 👨🏿‍💻 I’m currently working on crafting AI that understands supermarket receipts — powering smarter shopping and data-driven insights across Kenya. On the side, I dive into sports analytics and data visualization.
 
 - 🤝🏿 I’m looking to collaborate on exciting open-source data science projects or opportunities related to data science, rugby performance analysis, or other interesting domains. If you're interested in hiring me or collaborating with me on a project, please [email me](manassehoduor6@gmail.com).
 
-- 💬 Ask me about rugby performance analysis, data-driven insights in sports, or any questions related to data science and analytics. 
-
 - 🖤 Pronouns: He/him (🙋🏿‍♂️)
-
-- ⚡ Fun fact: I've played rugby at a competitive level for several years and deeply understand the game as a player and analyst.
 
 ### 🚀 Skills & Tools:
 ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
